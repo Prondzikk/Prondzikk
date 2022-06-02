@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prondzikk&label=Profile%20views&color=8c00ff&style=flat" alt="prondzikk" /> </p>
 
-- 💬 Serwer FiveM [VainRP](https://discord.gg/z8KDWevH2r)
+- 💬 WWW Site [undox.xyz](undox.xyz)
 
 - 📫 Jesli czegos potrzebujesz **Prondzikk#9999**
 
